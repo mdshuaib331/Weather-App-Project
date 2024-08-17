@@ -7,9 +7,19 @@
 
 body {
     /* background-color: #222; */
-    background:#D1E9F6;
+    background-color:linear-gradient(110deg,#95D2B3,#D8EFD3);
 }
-
+.heading{
+    width:100%;
+     padding:10px;
+     background-color:#03346E;
+     color:#fff;
+     border: 2px solid #fff;
+     border-radius: 10px;
+ }
+ .heading h1{
+    margin-left: 40%;
+ }
 .card{
     width: 90%;
     max-width: 470px;

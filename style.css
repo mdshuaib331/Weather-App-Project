@@ -7,7 +7,7 @@
 
 body {
     /* background-color: #222; */
-    background-color:linear-gradient(110deg,#95D2B3,#D8EFD3);
+   background: linear-gradient(110deg,#95D2B3,#D8EFD3);
 }
 .heading{
      display: flex;
